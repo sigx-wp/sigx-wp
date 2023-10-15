@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @sigx-wp
-- 👀 I’m interested in C# Programming, Java Programming, Web Server Development
-- 🌱 I’m currently learning C#, Java, PHP
-- 💞️ I’m looking to collaborate on Social Media, FTP Server, Web Server, Games
-- 📫 How to reach me: info@alessio-attilio.info
+
